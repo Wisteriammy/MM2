@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/MV0aoqsww2YCR9r0/raw"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/shironaxgi/Wisteria/refs/heads/main/bladeball.lua"))()
